@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: #000300;
+}
+ {
+  /* /grid   grid-cols-1 sm:grid-cols-2 md:grid-cols-3 py-5 justify-items-stretch px-8  gap-x-8 gap-y-8 */
+}
